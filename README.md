@@ -1,5 +1,5 @@
 Full guide for building and running Qwen3.6-27B with Multi-Token Prediction (MTP) on a single RTX 3090. Includes custom llama.cpp build, llama-swap config, and verification steps. Achieved 65 tok/s with 93% draft acceptance.
-[qwen36-mtp-deployment-guide-anonymized.md](https://github.com/user-attachments/files/27500749/qwen36-mtp-deployment-guide-anonymized.md)
+
 # Qwen3.6-27B MTP — Build, Deploy & Verify Guide
 
 *Homelab Achievement Log*
